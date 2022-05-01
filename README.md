@@ -2,7 +2,7 @@
 - 👀 I’m interested in develope a telegrambot
 - 🌱 I’m currently learning python,html,java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 you can reach me via telegram @henmark12
 
 <!---
 panda0980/panda0980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
